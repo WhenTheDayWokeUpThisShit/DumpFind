@@ -34,9 +34,7 @@
 *.app
 
 #Benim icin
-.sln
-.sln
-.gitignore
-.DumpFind.vcxproj.filters
-.DumpFind.vcxproj.user
+DumpFind.sln
+DumpFind.vcxproj.filters
+DumpFind.vcxproj.user
 
