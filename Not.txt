@@ -1,0 +1,9 @@
+Bu program sistemdeki Mavi Ekran dökümlerini bulmak için programlanmıştır. UE minidump dökümlerini bulmaz.
+
+Programın düzgün çalışması için Yönetici olarak çalıştırmanızı öneririm. Zira dump dosyaları için bazı yönetici izinleri gerekiyor ve program onları almaya kodlandı.
+
+Virüs uyarısı verecektir çünkü herhangi bir kaydı yok. Almayı da düşünmüyorum.
+
+CLI idir ve GUI sürümü yoktur. Exe'yi çalıştırmanız yeterli olacaktır.
+
+Visual C++ 2013-2015 sürümlerinin yüklü olması gerekir çalışması için. Aksi takdirde uyarı verip kapanacaktır. 
